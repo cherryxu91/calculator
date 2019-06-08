@@ -12,3 +12,8 @@ elif operator == '*' :
     print(x * y)
 else:
     print('Invalid operator. Please try again.')
+
+# to do
+# use 'try/except' for each variable to make sure it's a number and not a string
+# include 'input' for 'else:' to reprompt Calculator
+# make a loop for 'else'
