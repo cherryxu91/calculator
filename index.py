@@ -11,4 +11,4 @@ elif operator == '/' :
 elif operator == '*' :
     print(x * y)
 else:
-    print('Input was not recognized. Please try again.')
+    print('Invalid operator. Please try again.')
